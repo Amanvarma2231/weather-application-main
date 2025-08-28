@@ -148,16 +148,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star and Fork 🚀
 
-### Thanks For Star🙏👨‍💻
-[![Stargazers repo](https://reporoster.com/stars/sabbirahmad12/weather-application)](https://github.com/sabbirahmad12/weather-application/)
-
-### Thanks For Fork 🙏👨‍💻
-
-[![Forkers repo](https://reporoster.com/forks/sabbirahmad12/weather-application)](https://github.com/sabbirahmad12/weather-application/network/members)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sabbirahmad12/weather-application&type=Timeline)](https://www.star-history.com/#sabbirahmad12/weather-application&Timeline)
 
 ## Support Me ❤️
 
@@ -165,13 +155,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
   Thanks for visiting!
   
-  [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=mdsabbirahmad42&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/mdsabbirahmad42)
-  
-</div>
 
----
 
-<div align="center">
-  <sub>Built with ❤️ by Md Sabbir Ahmad</sub><br>
-  <sub>Copyright © 2025 Weather Application</sub>
-</div> 
