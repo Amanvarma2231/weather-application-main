@@ -146,6 +146,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+👤 Author & Contact
+Aman Varma
+
+GitHub: @Amanvarma2231
+
+Project Link: https://github.com/Amanvarma2231/weather-application-main
+
 ## 🌟 Star and Fork 🚀
 
 
