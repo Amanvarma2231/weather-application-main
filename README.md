@@ -162,6 +162,74 @@ Project Link: https://github.com/Amanvarma2231/weather-application-main
 <div align="center">
   
   Thanks for visiting!
+  🚀 How to Use
+Launch the Application:
+
+bash
+python main.py
+Get Weather:
+
+Type a city name (e.g., "London", "Tokyo") into the search box.
+
+Click the "Get Weather" button or press Enter.
+
+View the current weather and a 5-day forecast in the main window.
+
+View Logs: All searched weather data is automatically saved to data/weather_logs.xlsx. You can open this file with any spreadsheet software (like Microsoft Excel or Google Sheets).
+
+🛠️ Project Structure
+text
+weather-application-main/
+├── data/                    # Directory for Excel log files
+├── sc/                     # Directory for application screenshots
+├── background_manager.py   # Handles dynamic background color logic
+├── main.py                # Main application script and GUI
+├── requirements.txt       # Python package dependencies
+└── README.md             # This file
+📋 Dependencies
+This project relies on the following key Python libraries:
+
+Package	Version	Purpose
+requests	~2.31.0	Makes HTTP calls to the OpenWeatherMap API.
+pandas	~2.1.0	Manages and writes weather data to Excel logs.
+openpyxl	~3.1.2	Enables pandas to read/write Excel .xlsx files.
+Pillow (PIL)	~10.0.0	Handles weather icon images within the Tkinter GUI.
+(See requirements.txt for the complete list.)
+
+🤝 Contributing
+Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated .
+
+If you have a suggestion to improve this project:
+
+Fork the repository.
+
+Create a feature branch (git checkout -b feature/AmazingFeature).
+
+Commit your changes (git commit -m 'Add some AmazingFeature').
+
+Push to the branch (git push origin feature/AmazingFeature).
+
+Open a Pull Request.
+
+Please ensure your code follows the existing style for consistency.
+
+📄 License
+Distributed under the MIT License. This means you are free to use, modify, and distribute the software, provided the original license and copyright notice are included. See the LICENSE file for more details.
+
+👤 Author & Contact
+Aman Varma
+
+GitHub: @Amanvarma2231
+
+Project Link: https://github.com/Amanvarma2231/weather-application-main
+
+For questions, feedback, or support, please open an Issue on the GitHub repository.
+
+⭐ Support the Project
+If you found this project helpful or interesting, please consider giving it a Star on GitHub! It helps others discover the project.
+
+text
+
   
 
 
